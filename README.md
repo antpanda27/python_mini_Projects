@@ -1,6 +1,5 @@
 # Python Mini Projects
-<!--Remove the below lines and add yours -->
-A short description about the script must be mentioned here.
+A collection of my simple Python projects during my studies
 
 ## Anthony Phun
 [antpanda27](https://github.com/antpanda27)
